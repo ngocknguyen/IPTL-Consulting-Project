@@ -3,12 +3,7 @@ International Professional Tennis League (IPTL) is a start-up company dedicated 
 
 I volunteered as a consulting analyst at SJSU x MISA to help the client understand their overall positioning in the larger tennis industry and consult in building a marketing plan.
 
-We conducted analyses to:
+I performed a market research analysis on WTA and ATP datasets from 2019-2021 to reveal top professional tennis players globally, tennis trends, upset chances in Grand Slams, and the correlation between ages and chosen average match time. 
 
-• Performed a market research analysis on WTA and ATP datasets from 2019-2021 to reveal top professional tennis players globally, tennis trends, upset chances in Grand Slams, and the correlation between ages and chosen average match time. 
-
-• Identify partnership opportunities for client via research of market of local tennis clubs and organizations
-
-• Build a marketing plan to raise awareness and further develop content strategy
 
 
